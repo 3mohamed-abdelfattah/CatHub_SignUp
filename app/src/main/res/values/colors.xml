@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#E7BD0F</color>
+    <color name="lightorange">#FFDD8E</color>
+    <color name="gray">#545454</color>
+    <color name="githubbg">#1f2328</color>
+
+</resources>
